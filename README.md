@@ -1,5 +1,5 @@
 # 💫 About Me:
-     I'm Bhuvaneshwari from India.🔭  I’m currenttly focusing on areas such as wireframing, UI/UX design and web development using languages and frameworks like Html,Css,JavaScript,Java and PHP.👯 I’m looking to collaborate on projects related to web development, UI/UX design, and content creation where I cancontribute my skills and knowledge.🤝 I’m currently learning more about React,Ruby,NodeJS and AWS.
+     I'm Bhuvaneshwari from India.🔭  I’m currently focusing on areas such as wireframing, UI/UX design and web development using languages and frameworks like Html,Css,JavaScript,Java and PHP.👯 I’m looking to collaborate on projects related to web development, UI/UX design, and content creation where I cancontribute my skills and knowledge.🤝 I’m currently learning more about React,Ruby,NodeJS and AWS.
 
 
 ## 🌐 Socials:
